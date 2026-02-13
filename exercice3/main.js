@@ -1,5 +1,5 @@
-let liste = ["pomme", "banane", "cerise"];
+let fruits = ["pomme", "banane", "cerise"];
 
-  liste.forEach(fruits => {
-    console.log (fruits) 
+  fruits.forEach(fruit => {
+    console.log (fruit);
   });

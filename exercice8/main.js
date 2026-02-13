@@ -1,26 +1,39 @@
-let nombres = [9, 45, 32, 56, 10];
+// let nombres = [9, 45, 32, 56, 10];
+
+// let max = Math.max[index]
+// for (let index = 0; index < nombres.length; index++) {
+//     if (nombres[index]>max) {
+//           max = Math.max[index];
+//     }
+// }
+// console.log(max)
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+let max = Math.max(9, 45, 32, 56, 10);
+
+console.log(max)
+// ///////////////////////////////////////////////////////////////////////////////////////
 
 
-let max = nombres[0]
 
-for (let index = 0; index < nombres.length; index++) {
-    if (nombres[index]>max) {
-        max = nombres [index]
-    }
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+// let nombres = [9, 45, 32, 56, 10];
+// / let max = nombres[0]
+
+// for (let index = 0; index < nombres.length; index++) {
+//     if (nombres[index]>max) {
+//         max = nombres [index]
+//     }
   
-}
+// }
 
- console.log(max)
+//  console.log(max)
 
+// //////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-
-
-
-
-
-
+// Math.max renvoie le nombre maximum d'un groupe de nombres transmis à la fonction
 
 
 
